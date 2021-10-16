@@ -1,14 +1,28 @@
 ### Hi there 👋, I'm Subrina Lisa
-#### Web Designer
+<p>
+  :ballot_box_with_check: I'm a Web Designer <br>
+  :ballot_box_with_check: Quick Learner <br>
+  :ballot_box_with_check: Love to work & experience more
+ </p>
 
 I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new things & take up challenges. I try to keep myself updated with the trending programming languages & technologies. Because I believe, learning never exhausts the mind. Most of the time I work with HTML, CSS, Bootstrap, JavaScript & jQuery to make an aesthetic & elegant website. Currently I'm focusing on learning more libraries & frameworks like Tailwind CSS, React JS, SASS etc. Besides that, also try to learn some Backend languages including Php, Node Js as well.
 
-Skills: HTML, CSS, CSS Animation, SASS, Bootstrap, JavaScript, jQuery, jQuery UI, jQuery Plugins, WordPress
-
-- 🔭 I’m currently working on **Themeforest** and **TemplateMonster** market place 
-- 🌱 I’m currently learning **React JS** 
-- 💬 Ask me about **Web Development** 
-
+<p><strong>Skills & Experience:</strong></p>
+  :white_check_mark: HTML <br>
+  :white_check_mark: CSS <br>
+  :white_check_mark: CSS Animation <br>
+  :white_check_mark: SASS, Bootstrap <br>
+  :white_check_mark: JavaScript <br>
+  :white_check_mark: jQuery <br>
+  :white_check_mark: jQuery UI <br>
+  :white_check_mark: jQuery Plugins <br>
+  :white_check_mark: WordPress <br>
+<br>
+<p>:office: I’m currently working on <strong>Themeforest</strong> and <strong>TemplateMonster</strong> market place <br>
+:books: I’m currently learning <strong>React JS</strong> <br>
+ </p>
+ 
+<p><strong>Social Media:</strong></p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/subrinalisa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/subrinalisa14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/subrinalisa/)  
 
