@@ -2,7 +2,7 @@
 <p>
   :ballot_box_with_check: I'm a Web Designer <br>
   :ballot_box_with_check: Quick Learner <br>
-  :ballot_box_with_check: Love to work & experience more
+  :ballot_box_with_check: Love to work & get experienced
  </p>
 
 I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new things & take up challenges. I try to keep myself updated with the trending programming languages & technologies. Because I believe, learning never exhausts the mind. Most of the time I work with HTML, CSS, Bootstrap, JavaScript & jQuery to make an aesthetic & elegant website. Currently I'm focusing on learning more libraries & frameworks like Tailwind CSS, React JS, SASS etc. Besides that, also try to learn some Backend languages including Php, Node Js as well.
