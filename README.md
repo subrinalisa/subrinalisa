@@ -1,39 +1,86 @@
-### Hi there 👋, I'm Subrina Lisa
+<h2>Hi there, I'm Subrina Lisa 👋</h2>
+<p>I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new
+    things & take up challenges. I try to keep myself updated with the trending programming languages &
+    technologies, because I believe learning never exhausts the mind. My passion is to make website looks aesthetic
+    & elegant. I've a good command on HTML, CSS, SASS, Bootstrap, JavaScript, Jquery etc. Besides that, I'm trying
+    to learn more libraries & frameworks like Tailwind CSS, React JS etc. Also I've planned to learn some
+    backend languages including Php or Node Js as well.</p>
+<h3>Skills</h3>
+<ul>
+    <li> HTML</li>
+    <li>CSS</li>
+    <li>CSS3 Animation</li>
+    <li>SASS</li>
+    <li>Bootstrap</li>
+    <li>Javascript</li>
+    <li>Jquery</li>
+    <li>Jquery Plugin</li>
+    <li>Jquery UI</li>
+    <li>PhotoShop</li>
+    <li>Illustrator</li>
+    <li>Adobe Xd</li>
+    <li>Figma</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+    <li>Have designed dashboard for cms(content management system)</li>
+    <li>Have designed app or software landing page</li>
+    <li>Have designed e-commerce website</li>
+    <li>Have converted psd or xd or figma to HTML</li>
+    <li>Have approved items on TemplateMonster</li>
+</ul>
+<h3>My Projects</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AlgoLab</td>
+            <td>AlgoLab is a simple App, Software or Product Promoting Website. This template is created to promote
+                an app, software, or product-related website or landing page. This template is a clean responsive
+                HTML structure with a unique design.</td>
+            <td><a href="https://algolab.algotoolz.com/">AlgoLab</a></td>
+        </tr>
+        <tr>
+            <td>AlgoBazar</td>
+            <td>This AlgoBazar template is for any kind of e-commerce business website with a modern color and
+                elegant design. This template gives simple but classy look. This responsive template comes with a
+                Home Page, Product Page, Product Details Page, Wishlist Page, Cart Page, Checkout Page, User
+                Dashboard Pages, Login & Register Pages and many more. It is built with latest web technologies and
+                SEO optimized code to make it friendly with search engines. It is also very well documented, user
+                friendly and easy to customize.</td>
+            <td><a href="http://algobazar.algotoolz.com/">AlgoBazar</a></td>
+        </tr>
+        <tr>
+            <td>Kvirus-19</td>
+            <td>Kvirus-19 is a simple Medical & Healthcare Website Template. This template is created for social &
+                medical awareness, hospitals, emergency helpline, NGOs, etc. It will give people information about
+                coronavirus and also make them aware of this global pandemic.</td>
+            <td><a href="https://corona.algotoolz.com/">Kvirus-19</a></td>
+        </tr>
+    </tbody>
+</table>
+<h3>Connect with me</h3>
 <p>
-  :ballot_box_with_check: I'm a Web Designer <br>
-  :ballot_box_with_check: Quick Learner <br>
-  :ballot_box_with_check: Love to work & get experienced
- </p>
+    <a href="https://www.facebook.com/subrinalisa14/" title="Facebook" style="margin-right: 8px;"><img
+            src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1642528513~hmac=213cf73ca2a39180a1e23098241931b0"
+            width="32" alt=""></a>
+    <a href="https://www.instagram.com/subrinalisa/" title="Instagram" style="margin-right: 8px;"><img
+            src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="32" alt=""></a>
+    <a href="https://www.linkedin.com/in/subrinalisa/" title="LinkedIn"><img
+            src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1642528624~hmac=587311e88899e7cff452267d854eeba6"
+            width="32" alt=""></a>
+</p>
 
-I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new things & take up challenges. I try to keep myself updated with the trending programming languages & technologies. Because I believe, learning never exhausts the mind. Most of the time I work with HTML, CSS, Bootstrap, JavaScript & jQuery to make an aesthetic & elegant website. Currently I'm focusing on learning more libraries & frameworks like Tailwind CSS, React JS, SASS etc. Besides that, also try to learn some Backend languages including Php, Node Js as well.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=subrinalisa&show_icons=true) 
 
-<p><strong>Skills & Experience:</strong></p>
-  :white_check_mark: HTML <br>
-  :white_check_mark: CSS <br>
-  :white_check_mark: CSS Animation <br>
-  :white_check_mark: SASS, Bootstrap <br>
-  :white_check_mark: JavaScript <br>
-  :white_check_mark: jQuery <br>
-  :white_check_mark: jQuery UI <br>
-  :white_check_mark: jQuery Plugins <br>
-  :white_check_mark: WordPress <br>
-<br>
-<p>:office: I’m currently working on <strong>Themeforest</strong> and <strong>TemplateMonster</strong> market place <br>
-:books: I’m currently learning <strong>React JS</strong> <br>
- </p>
- 
-<p><strong>Social Media:</strong></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrinalisa)](https://github.com/anuraghazra/github-readme-stats) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/subrinalisa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/subrinalisa14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/subrinalisa/)  
+![Profile views](https://gpvc.arturio.dev/subrinalisa) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subrinalisa)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subrinalisa)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=subrinalisa&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=subrinalisa)  
-
-![GitHub metrics](https://metrics.lecoq.io/subrinalisa)  
-
-![Profile views](https://gpvc.arturio.dev/subrinalisa)  
