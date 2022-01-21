@@ -42,7 +42,7 @@
         <tr>
             <td>AlgoLab</td>
             <td>AlgoLab is a simple App, Software or Product Promoting Website. This template is a clean responsive
-                HTML structure with a unique design. This is very uder friendly and easy to customize.</td>
+                HTML structure with a unique design. This is very user friendly and easy to customize.</td>
             <td><a href="https://algolab.algotoolz.com/">AlgoLab</a></td>
         </tr>
         <tr>
