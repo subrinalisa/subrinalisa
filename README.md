@@ -41,15 +41,13 @@
     <tbody>
         <tr>
             <td>AlgoLab</td>
-            <td>AlgoLab is a simple App, Software or Product Promoting Website. This template is created to promote
-                an app, software, or product-related website or landing page. This template is a clean responsive
-                HTML structure with a unique design.</td>
+            <td>AlgoLab is a simple App, Software or Product Promoting Website. This template is a clean responsive
+                HTML structure with a unique design. This is very uder friendly and easy to customize.</td>
             <td><a href="https://algolab.algotoolz.com/">AlgoLab</a></td>
         </tr>
         <tr>
             <td>AlgoBazar</td>
-            <td>This AlgoBazar template is for any kind of e-commerce business website with a modern color and
-                elegant design. This template gives simple but classy look. This responsive template comes with a
+            <td>This template is for any kind of e-commerce business. This template gives simple but classy look. This responsive layout comes with a
                 Home Page, Product Page, Product Details Page, Wishlist Page, Cart Page, Checkout Page, User
                 Dashboard Pages, Login & Register Pages and many more. It is built with latest web technologies and
                 SEO optimized code to make it friendly with search engines. It is also very well documented, user
