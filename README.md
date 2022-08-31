@@ -1,13 +1,10 @@
 <h2>Hi there, I'm Subrina Lisa 👋</h2>
 <p>I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new
-    things & take up challenges. I try to keep myself updated with the trending programming languages &
-    technologies, because I believe learning never exhausts the mind. My passion is to make website looks aesthetic
-    & elegant. I've a good command on HTML, CSS, SASS, Bootstrap, JavaScript, Jquery etc. Besides that, I'm trying
-    to learn more libraries & frameworks like Tailwind CSS, React JS etc. Also I've planned to learn some
-    backend languages including Php or Node Js as well.</p>
+    things & take up challenges. My passion is to make website looks aesthetic
+    & elegant. I've a good command on HTML, CSS, SASS, Bootstrap, JavaScript, Jquery,Tailwind CSS, React JS,Php etc. I try to keep myself updated with the trending programming languages & technologies, because I believe learning never exhausts the mind.</p>
 <h3>Skills</h3>
 <ul>
-    <li> HTML</li>
+    <li>HTML</li>
     <li>CSS</li>
     <li>CSS3 Animation</li>
     <li>SASS</li>
