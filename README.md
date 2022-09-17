@@ -40,7 +40,7 @@
             <td>AlgoLab</td>
             <td>AlgoLab is a simple App, Software or Product Promoting Website. This template is a clean responsive
                 HTML structure with a unique design. This is very user friendly and easy to customize.</td>
-            <td><a href="https://algolab.algotoolz.com/">AlgoLab</a></td>
+            <td><a href="https://algolabb.netlify.app/">AlgoLab</a></td>
         </tr>
         <tr>
             <td>AlgoBazar</td>
@@ -49,14 +49,14 @@
                 Dashboard Pages, Login & Register Pages and many more. It is built with latest web technologies and
                 SEO optimized code to make it friendly with search engines. It is also very well documented, user
                 friendly and easy to customize.</td>
-            <td><a href="http://algobazar.algotoolz.com/">AlgoBazar</a></td>
+            <td><a href="https://algobazaar.netlify.app/">AlgoBazar</a></td>
         </tr>
         <tr>
             <td>Kvirus-19</td>
             <td>Kvirus-19 is a simple Medical & Healthcare Website Template. This template is created for social &
                 medical awareness, hospitals, emergency helpline, NGOs, etc. It will give people information about
                 coronavirus and also make them aware of this global pandemic.</td>
-            <td><a href="https://corona.algotoolz.com/">Kvirus-19</a></td>
+            <td><a href="https://kvirus.netlify.app/">Kvirus-19</a></td>
         </tr>
     </tbody>
 </table>
