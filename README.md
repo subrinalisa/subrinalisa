@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Subrina Lisa 👋</h2>
+<h2>Hi there, I'm Subrina Sultana 👋</h2>
 <p>I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new
     things & take up challenges. My passion is to make website looks aesthetic
     & elegant. I've a good command on HTML, CSS, SASS, Bootstrap, JavaScript, Jquery,Tailwind CSS, React JS,Php etc. I try to keep myself updated with the trending programming languages & technologies, because I believe learning never exhausts the mind.</p>
