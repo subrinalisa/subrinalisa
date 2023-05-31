@@ -23,11 +23,8 @@
 </ul>
 <h3>Experience</h3>
 <ul>
-    <li>Have designed dashboard for cms(content management system)</li>
-    <li>Have designed app or software landing page</li>
-    <li>Have designed e-commerce website</li>
-    <li>Have converted psd or xd or figma to HTML</li>
-    <li>Have approved items on TemplateMonster</li>
+    <li>Working as a Web Developer at ACI Limited</li>
+    <li>Previously worked as a Software Engineer at Jachai Limited</li>
 </ul>
 <h3>My Projects</h3>
 <table>
