@@ -1,14 +1,17 @@
 <h2>Hi there, I'm Subrina Sultana 👋</h2>
-<p>I'm a Front End Web Developer who believes in delivering effective & efficient work. I'm always keen to learn new
-    things & take up challenges. My passion is to make website looks aesthetic
-    & elegant. I've a good command on HTML, CSS, SASS, Bootstrap, JavaScript, Jquery,Tailwind CSS, React JS,Php etc. I try to keep myself updated with the trending programming languages & technologies, because I believe learning never exhausts the mind.</p>
+<p>A skilled Front-End Developer with over 3 years of experience and expertise in ReactJS. Currently working as a Web Developer in the MIS department at ACI Limited, specializing in evaluating and creating software for client applications. Proficient in developing dynamic and user-friendly applications by leveraging ReactJS and API integration. Prior experience as a Front-End Developer in two other companies, contributing to valuable industry knowledge and expertise. Dedicated to delivering high-quality code and ensuring exceptional user experiences.</p>
 <h3>Skills</h3>
 <ul>
+    <li>React.js</li>
+    <li>Next.js</li>
+    <li>React Redux</li>
+    <li>TypeScript</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>CSS3 Animation</li>
     <li>SASS</li>
     <li>Bootstrap</li>
+    <li>Tailwind CSS</li>
     <li>Javascript</li>
     <li>Jquery</li>
     <li>Jquery Plugin</li>
