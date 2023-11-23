@@ -1,21 +1,49 @@
 <h2>Software Engineer | Frontend Developer | Vue Js | Pinia</h2>
 <p>A Software Engineer with expertise in JavaScript frameworks such as VueJS, NuxtJS, ReactJS, and NextJS, I currently work as a Web Developer in the MIS department at ACI Limited. I hold a BSc in Computer Science and Engineering from RUET. Proficient in front-end technologies, including HTML, CSS, and Bootstrap, I have utilized Pinia and React-Redux for state management. Committed to delivering excellence and embracing challenges in the evolving field of software development</p>
 <h3>Skills</h3>
-<ul>
-    <li>Vue Js</li>
-    <li>Nuxt Js</li>
-    <li>React Js</li>
-    <li>Next Js</li>
-    <li>TypeScript</li>
-    <li>Jquery</li>
-    <li>React Redux</li>
-    <li>Pinia</li>
-    <li>HTML, CSS</li>
-    <li>CSS3 Animation</li>
-    <li>SASS</li>
-    <li>Bootstrap, Tailwind CSS</li>
-    <li>Ant Design, Element Plus UI</li>
-</ul>
+<table>
+    <thead>
+        <tr>
+            <th>Frameworks</th>
+            <th>Front End</th>
+            <th>State Management</th>
+            <th>UI Framework</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <ul>
+                    <li>Vue Js</li>
+                    <li>Nuxt Js</li>
+                    <li>React Js</li>
+                    <li>Next Js</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                     <li>HTML, CSS</li>
+                     <li>CSS3 Animation</li>
+                     <li>SASS</li>
+                     <li>Bootstrap, Tailwind CSS</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Pinia</li>
+                    <li>React Redux</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Ant Design</li>
+                    <li>Element Plus UI</li>
+                    <li>Progressive Web Apps(PWA)</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
 <h3>Experience</h3>
 <table>
     <thead>
@@ -39,7 +67,6 @@
             <td>Software Engineer</td>
             <td>(December, 2022 - January, 2023)</td>
         </tr>
-        
     </tbody>
 </table>
 <h3>My Projects</h3>
@@ -78,14 +105,11 @@
 </table>
 <h3>Connect with me</h3>
 <p>
-    <a href="https://www.facebook.com/subrinalisa14/" title="Facebook" style="margin-right: 8px;"><img
-            src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1642528513~hmac=213cf73ca2a39180a1e23098241931b0"
-            width="32" alt=""></a>
-    <a href="https://www.instagram.com/subrinalisa/" title="Instagram" style="margin-right: 8px;"><img
-            src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="32" alt=""></a>
-    <a href="https://www.linkedin.com/in/subrinalisa14/" title="LinkedIn"><img
+    <a href="https://www.linkedin.com/in/subrinalisa14/" title="LinkedIn">
+        <img
             src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1642528624~hmac=587311e88899e7cff452267d854eeba6"
-            width="32" alt=""></a>
+            width="32" alt="linkedin" />
+    </a>
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=subrinalisa&show_icons=true) 
