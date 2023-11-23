@@ -107,7 +107,7 @@
 <p>
     <a href="https://www.linkedin.com/in/subrinalisa14/" title="LinkedIn">
         <img
-            src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1642528624~hmac=587311e88899e7cff452267d854eeba6"
+            src="https://cdn-icons-png.flaticon.com/256/174/174857.png"
             width="32" alt="linkedin" />
     </a>
 </p>
