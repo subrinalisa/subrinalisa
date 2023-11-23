@@ -59,13 +59,13 @@
             <td>01</td>
             <td>ACI Limited</td>
             <td>Web Developer</td>
-            <td>(Feb, 2023 - Present)</td>
+            <td>Feb, 2023 - Present</td>
         </tr>
          <tr>
             <td>02</td>
             <td>Jachai Limited</td>
             <td>Software Engineer</td>
-            <td>(December, 2022 - January, 2023)</td>
+            <td>December, 2022 - January, 2023</td>
         </tr>
     </tbody>
 </table>
