@@ -1,31 +1,47 @@
-<h2>Hi there, I'm Subrina Sultana 👋</h2>
-<p>A skilled Front-End Developer with over 3 years of experience and expertise in ReactJS. Currently working as a Web Developer in the MIS department at ACI Limited, specializing in evaluating and creating software for client applications. Proficient in developing dynamic and user-friendly applications by leveraging ReactJS and API integration. Prior experience as a Front-End Developer in two other companies, contributing to valuable industry knowledge and expertise. Dedicated to delivering high-quality code and ensuring exceptional user experiences.</p>
+<h2>Software Engineer | Frontend Developer | Vue Js | Pinia</h2>
+<p>A Software Engineer with expertise in JavaScript frameworks such as VueJS, NuxtJS, ReactJS, and NextJS, I currently work as a Web Developer in the MIS department at ACI Limited. I hold a BSc in Computer Science and Engineering from RUET. Proficient in front-end technologies, including HTML, CSS, and Bootstrap, I have utilized Pinia and React-Redux for state management. Committed to delivering excellence and embracing challenges in the evolving field of software development</p>
 <h3>Skills</h3>
 <ul>
-    <li>React.js</li>
-    <li>Next.js</li>
-    <li>React Redux</li>
+    <li>Vue Js</li>
+    <li>Nuxt Js</li>
+    <li>React Js</li>
+    <li>Next Js</li>
     <li>TypeScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>Jquery</li>
+    <li>React Redux</li>
+    <li>Pinia</li>
+    <li>HTML, CSS</li>
     <li>CSS3 Animation</li>
     <li>SASS</li>
-    <li>Bootstrap</li>
-    <li>Tailwind CSS</li>
-    <li>Javascript</li>
-    <li>Jquery</li>
-    <li>Jquery Plugin</li>
-    <li>Jquery UI</li>
-    <li>PhotoShop</li>
-    <li>Illustrator</li>
-    <li>Adobe Xd</li>
-    <li>Figma</li>
+    <li>Bootstrap, Tailwind CSS</li>
+    <li>Ant Design, Element Plus UI</li>
 </ul>
 <h3>Experience</h3>
-<ul>
-    <li>Working as a Web Developer at ACI Limited</li>
-    <li>Previously worked as a Software Engineer at Jachai Limited</li>
-</ul>
+<table>
+    <thead>
+        <tr>
+            <th>SL</th>
+            <th>Company</th>
+            <th>Designation</th>
+            <th>Duration</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01</td>
+            <td>ACI Limited</td>
+            <td>Web Developer</td>
+            <td>(Feb, 2023 - Present)</td>
+        </tr>
+         <tr>
+            <td>02</td>
+            <td>Jachai Limited</td>
+            <td>Software Engineer</td>
+            <td>(December, 2022 - January, 2023)</td>
+        </tr>
+        
+    </tbody>
+</table>
 <h3>My Projects</h3>
 <table>
     <thead>
@@ -67,7 +83,7 @@
             width="32" alt=""></a>
     <a href="https://www.instagram.com/subrinalisa/" title="Instagram" style="margin-right: 8px;"><img
             src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="32" alt=""></a>
-    <a href="https://www.linkedin.com/in/subrinalisa/" title="LinkedIn"><img
+    <a href="https://www.linkedin.com/in/subrinalisa14/" title="LinkedIn"><img
             src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1642528624~hmac=587311e88899e7cff452267d854eeba6"
             width="32" alt=""></a>
 </p>
