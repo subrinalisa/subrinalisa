@@ -65,7 +65,7 @@
             <td>02</td>
             <td>Jachai Limited</td>
             <td>Software Engineer</td>
-            <td>December, 2022 - January, 2023</td>
+            <td>Dec, 2022 - Jan, 2023</td>
         </tr>
     </tbody>
 </table>
