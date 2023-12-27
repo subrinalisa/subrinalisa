@@ -120,6 +120,14 @@
                     makes a
                     purchase from their membership outlet, they can convert their loyalty points into cash.</li>
             </ol>
+            <p><strong>Technologies:</strong>
+            <ul>
+                <li>Vue Js</li>
+                <li>Antd</li>
+                <li>Pinia</li>
+                <li>Progressive Web App (PWA)</li>
+            </ul>
+            </p>
             </td>
             <td><a href="https://app.acibd.com/eps/">EPS System</a></td>
         </tr>
