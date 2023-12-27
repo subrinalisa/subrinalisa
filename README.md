@@ -133,11 +133,16 @@
         </tr>
         <tr>
             <td>AlgoBazar</td>
-            <td>This template is for any kind of e-commerce business. This template gives simple but classy look. This responsive layout comes with a
-                Home Page, Product Page, Product Details Page, Wishlist Page, Cart Page, Checkout Page, User
-                Dashboard Pages, Login & Register Pages and many more. It is built with latest web technologies and
-                SEO optimized code to make it friendly with search engines. It is also very well documented, user
-                friendly and easy to customize.</td>
+            <td>This template is for any kind of e-commerce business.
+            <p><strong>Technologies:</strong>
+            <ul>
+                <li>Html</li>
+                <li>CSS</li>
+                <li>Bootstrap</li>
+                <li>Javascript & Jqury</li>
+            </ul>
+            </p>
+            </td>
             <td><a href="https://algobazaar.netlify.app/">AlgoBazar</a></td>
         </tr>
         <tr>
