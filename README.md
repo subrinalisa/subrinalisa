@@ -139,7 +139,7 @@
                 <li>Html</li>
                 <li>CSS</li>
                 <li>Bootstrap</li>
-                <li>Javascript & Jqury</li>
+                <li>Javascript & Jqeury</li>
             </ul>
             </p>
             </td>
@@ -147,9 +147,16 @@
         </tr>
         <tr>
             <td>Kvirus-19</td>
-            <td>Kvirus-19 is a simple Medical & Healthcare Website Template. This template is created for social &
-                medical awareness, hospitals, emergency helpline, NGOs, etc. It will give people information about
-                coronavirus and also make them aware of this global pandemic.</td>
+            <td>Kvirus-19 is a simple Medical & Healthcare Website Template.
+             <p><strong>Technologies:</strong>
+            <ul>
+                <li>Html</li>
+                <li>CSS</li>
+                <li>Bootstrap</li>
+                <li>Javascript & Jqeury</li>
+            </ul>
+            </p>
+            </td>
             <td><a href="https://kvirus.netlify.app/">Kvirus-19</a></td>
         </tr>
     </tbody>
