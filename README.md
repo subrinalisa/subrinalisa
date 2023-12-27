@@ -81,7 +81,23 @@
     <tbody>
         <tr>
             <td>EPS System</td>
-            <td>EPOS (Electronic Point of Sale) is a computer system for managing sales, commonly used in retail and hospitality</td>
+            <td>EPOS (Electronic Point of Sale) is a computer system for managing sales, commonly used in retail and hospitality. Features
+1. Product Search: Input the product code or scan the barcode in the 'Item Code/Barcode' field, then press Enter. Alternatively, press Enter without input to view a product list. Choose your desired product from the list or search by filtering its code/barcode. Select the product and press Enter.
+
+2. Update a Product Quantity: Select the product you wish to update, and the focus will shift to its quantity field. Enter the new value and press Enter to proceed to the next product.
+
+3. Delete a Product: To remove a mistakenly entered product, click on the item, and then either press Control+Delete on your keyboard or click the delete icon.
+
+4. Order Place: To place an order, press F12. A popup will appear asking 'ব্যাগ কই ?' Press 'লাগবে না'. The focus will shift to the Tender List. Enter the amount for the desired tender ID (either cards, cash, or both) and press Enter to print the invoice.
+
+5. Hold & Recall: To hold an order, press F11 or click on the 'Hold Invoice' button. To recall, choose the holding number from the list and press F10, or click on the 'Recall Invoice' button.
+
+6. Return Product: To initiate a product return, press F3, enter any username and password to proceed. Provide the invoice number and press Enter. Select the product, input the return quantity, and then click the 'Invoice' button or press F4 to complete the return process. 
+Note: Refunds are not available. However, you have the option to use the amount for ordering another product of equal or greater value.
+
+7. Help: To access the help list for any shortcut key, press F1.
+
+8. Customer Loyalty Point: Enter the customer code or mobile number into the Customer field. If the customer has a membership, the system will display their points along with the corresponding amount. If the customer makes a purchase from their membership outlet, they can convert their loyalty points into cash.</td>
             <td><a href="https://app.acibd.com/eps/">EPS System</a></td>
         </tr>
         <tr>
