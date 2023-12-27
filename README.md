@@ -82,8 +82,8 @@
         <tr>
             <td>EPS System</td>
             <td>EPOS (Electronic Point of Sale) is a computer system for managing sales, commonly used in retail and hospitality. 
-            <p>Features
-1. Product Search: Input the product code or scan the barcode in the 'Item Code/Barcode' field, then press Enter. Alternatively, press Enter without input to view a product list. Choose your desired product from the list or search by filtering its code/barcode. Select the product and press Enter.
+            <p>Features</p>
+<p>1. Product Search: Input the product code or scan the barcode in the 'Item Code/Barcode' field, then press Enter. Alternatively, press Enter without input to view a product list. Choose your desired product from the list or search by filtering its code/barcode. Select the product and press Enter.
 
 2. Update a Product Quantity: Select the product you wish to update, and the focus will shift to its quantity field. Enter the new value and press Enter to proceed to the next product.
 
