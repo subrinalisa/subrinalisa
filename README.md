@@ -80,10 +80,9 @@
     </thead>
     <tbody>
         <tr>
-            <td>AlgoLab</td>
-            <td>AlgoLab is a simple App, Software or Product Promoting Website. This template is a clean responsive
-                HTML structure with a unique design. This is very user friendly and easy to customize.</td>
-            <td><a href="https://algolabb.netlify.app/">AlgoLab</a></td>
+            <td>EPS System</td>
+            <td>EPOS (Electronic Point of Sale) is a computer system for managing sales, commonly used in retail and hospitality</td>
+            <td><a href="https://app.acibd.com/eps/">EPS System</a></td>
         </tr>
         <tr>
             <td>AlgoBazar</td>
