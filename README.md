@@ -1,11 +1,10 @@
 <h2>Software Engineer | Frontend Developer | Vue Js | Pinia</h2>
-<p>A Software Engineer with expertise in JavaScript frameworks such as VueJS, NuxtJS, ReactJS, and NextJS, I currently work as a Web Developer in the MIS department at ACI Limited. I hold a BSc in Computer Science and Engineering from RUET. Proficient in front-end technologies, including HTML, CSS, and Bootstrap, I have utilized Pinia and React-Redux for state management. Committed to delivering excellence and embracing challenges in the evolving field of software development</p>
+<p>A Frontend Developer with expertise in the JavaScript framework Vue.js. Since starting my professional journey in 2020, I've developed a strong portfolio of dynamic and responsive web applications. I hold a BSc in Computer Science and Engineering from RUET. Currently, I'm working at ACI Limited, using Vue.js with Pinia to enhance the company's web solutions. I'm a quick learner, always eager to expand my skills and tackle new challenges</p>
 <h3>Skills</h3>
 <table>
     <thead>
         <tr>
             <th>Frameworks</th>
-            <th>Front End</th>
             <th>State Management</th>
             <th>UI Framework</th>
         </tr>
@@ -16,22 +15,11 @@
                 <ul>
                     <li>Vue Js</li>
                     <li>Nuxt Js</li>
-                    <li>React Js</li>
-                    <li>Next Js</li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                     <li>HTML, CSS</li>
-                     <li>CSS3 Animation</li>
-                     <li>SASS</li>
-                     <li>Bootstrap, Tailwind CSS</li>
                 </ul>
             </td>
             <td>
                 <ul>
                     <li>Pinia</li>
-                    <li>React Redux</li>
                 </ul>
             </td>
             <td>
