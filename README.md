@@ -5,6 +5,7 @@
     <thead>
         <tr>
             <th>Frameworks</th>
+             <th>Routing</th>
             <th>State Management</th>
             <th>UI Framework</th>
         </tr>
@@ -15,6 +16,11 @@
                 <ul>
                     <li>Vue Js</li>
                     <li>Nuxt Js</li>
+                </ul>
+            </td>
+             <td>
+                <ul>
+                    <li>Vue Router</li>
                 </ul>
             </td>
             <td>
