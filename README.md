@@ -1,5 +1,5 @@
 <h2>Software Engineer | Frontend Developer | Vue Js | Pinia</h2>
-<p>A Frontend Developer with expertise in the JavaScript framework Vue.js. Since starting my professional journey in 2020, I've developed a strong portfolio of dynamic and responsive web applications. I hold a BSc in Computer Science and Engineering from RUET. Currently, I'm working at ACI Limited, using Vue.js with Pinia to enhance the company's web solutions. I'm a quick learner, always eager to expand my skills and tackle new challenges</p>
+<p>A Frontend Developer with expertise in the JavaScript framework Vue.js. Since starting my professional journey in 2020, I've developed a strong portfolio of dynamic and responsive web applications. I hold a BSc in Computer Science and Engineering from RUET. Currently, I'm working at ACI Limited, using Vue.js with Vue Router & Pinia to create Single Page Applications. I'm a quick learner, always eager to expand my skills and tackle new challenges</p>
 <h3>Skills</h3>
 <table>
     <thead>
